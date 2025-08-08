@@ -97,7 +97,7 @@ The dataset contains sales order information with columns such as:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/ecommerce-sales-dashboard.git
+   git clone https://github.com/waniamasood/ecommerce-sales-dashboard.git
    ```
 2. Install dependencies:
 
