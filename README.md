@@ -1,10 +1,3 @@
-Here’s a **professional but easy-to-read README** for your *E-commerce Sales Dashboard* project.
-I’ll base it on what you’ve told me so far — data cleaning, outlier detection, customer segmentation, sales analysis, and visualizations.
-
----
-
-## 📄 **README.md** — E-commerce Sales Dashboard
-
 ### 📌 Project Overview
 
 The **E-commerce Sales Dashboard** project analyzes sales data from an online store to identify trends, top customers, outliers, and business insights.
